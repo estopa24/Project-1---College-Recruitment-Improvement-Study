@@ -1,4 +1,4 @@
-# Project 1 - College Recruitment Improvement Study
+# College Recruitment Improvement Study
 This study consists of surveys that ask questions to students in entry-level computing and computing literacy courses, for non-computer-majors, in order to gain knowledge and data about which courses they are taking, their majors, their motivations for being in the class and for studying at the college, and other related questions. The purpose of this study is to increase recruitment of students into computing majors particularly from underrepresented groups. The data collected from these surveys would help the college better understand how to recruit more students.
 
 ****UPDATE 02/28/2024 (Part 3 of Project 1 Data Analysis and Visualization)**
